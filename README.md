@@ -1,1 +1,2 @@
-live link : https://atta2006.github.io/TechEduca-SchoolWeb/
+live link : https://attamishwani.github.io/TechEduca-SchoolWeb/
+
